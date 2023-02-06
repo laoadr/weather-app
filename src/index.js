@@ -10,6 +10,7 @@ root.render(
   <React.StrictMode>
     <App />
     <Weather />
+    <p>This project was coded by Adrienne Lao and is open-sourced on <em><a href="https://github.com/laoadr/weather-app" target="_blank">Github</a></em></p>
   </React.StrictMode>
 );
 
