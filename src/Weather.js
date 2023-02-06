@@ -45,7 +45,7 @@ export default function Weather() {
       <input type="submit" placeholder="Type a city" value="Search" />
       <br />
       <h2>{weather}</h2>
-    <footer>This project was coded by Adrienne Lao and is open-sourced on <em><a href="https://github.com/laoadr/weather-app" target="_blank">Github</a></em></footer>
+    
     </form>
   );
 }
