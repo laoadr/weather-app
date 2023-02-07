@@ -45,7 +45,7 @@ export default function Weather() {
   return (
     <form onSubmit={displayTemperature}>
       <input type="search" placeholder="Type a city" onChange={updateCity} />
-      <input type="submit" placeholder="Type a city" value="Search" className="btn btn-primary"/>
+      <input type="submit" placeholder="Type a city" value="Search"/>
       <br />
       <h2>{weather}</h2>
     
